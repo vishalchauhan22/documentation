@@ -1,7 +1,7 @@
 author: vishalchauhan22
 title: vishalchauhan22.github.io
 domain: vishalchauhan22.github.io
-theme: jekyll-theme-midnight
+theme: jekyll-theme-tactile
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'site_builder_node.js']
 screenshot_directory: ./assets/images/screenshots/
 
